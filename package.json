@@ -1,0 +1,22 @@
+{
+  "name": "CavalryApp",
+  "version": "0.0.1",
+  "description": "AWS nodejs server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Farah",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.2.0",
+    "body-parser": "^1.12.4",
+    "dotenv": "^5.0.1",
+    "express": "^4.10.6",
+    "google-distance-matrix": "0.0.3",
+    "jade": "^1.8.1",
+    "mongodb": "^1.4.23",
+    "mongoose": "^4.1.6",
+    "pubnub": "^3.7.11"
+  }
+}
